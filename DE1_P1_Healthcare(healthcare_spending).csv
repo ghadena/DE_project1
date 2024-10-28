@@ -1,0 +1,396 @@
+Country Name,Country Code,Series Name,Series Code,2009 [YR2009],2010 [YR2010],2011 [YR2011],2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],2017 [YR2017],2018 [YR2018],2019 [YR2019],2020 [YR2020],2021 [YR2021],2022 [YR2022],2023 [YR2023]
+Afghanistan,AFG,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,..,60.5,..,..,..,61.5,..,..,67.7,..,..,..,..,..
+Afghanistan,AFG,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,34.3,38.6,39.9,..,45.2,50.5,..,53.4,58.8,..,61.8,..,..,..
+Afghanistan,AFG,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,9.81848717,8.56967163,8.56190777,7.89716864,8.80596447,9.52887821,10.10534763,11.81859016,12.62081718,14.20841885,14.83131981,15.53361416,21.82794952,..,..
+Afghanistan,AFG,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,43.26076889,46.57987976,52.36304855,52.61354065,56.30554199,60.18957901,60.05854034,61.48645782,66.90921783,71.33430481,74.23410797,80.28805542,81.31976318,..,..
+Afghanistan,AFG,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,5.41736698,5.47462463,5.60622549,4.34189463,5.03476191,4.96025801,5.1722393,5.0778451,5.09581852,3.88780427,3.35139465,7.63642311,3.30272126,..,..
+Afghanistan,AFG,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,72.7792511,78.9966507,73.25517273,74.48620605,72.04785919,73.05591583,78.38230133,75.97433472,75.48403931,76.37773132,76.81837463,76.23153687,77.34925079,..,..
+Afghanistan,AFG,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,21.8033886,15.52872467,21.13860512,21.17189598,22.91737556,21.98381996,16.44546318,18.94781876,19.42013359,19.73445702,19.83023643,16.13204002,19.34802628,..,..
+Afghanistan,AFG,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,72.77924347,78.9966507,73.25517273,74.48620605,72.04785919,73.05592346,78.3822937,75.97433472,75.48258209,76.22302246,76.818367,74.81396484,77.21405029,..,..
+Afghanistan,AFG,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,..,..,4.4,..,..,..,..,..,..,6.05,..,..,..
+Afghanistan,AFG,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,..,..,3.56,..,..,..,..,..,..,6.37,..,..,..
+Afghanistan,AFG,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,..,..,14.63,..,..,23.84,..,..,..,26.08,..,..,..
+Afghanistan,AFG,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Afghanistan,AFG,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,63,66,68,67,64,62,64,66,66,72,72,70,66,69,..
+Afghanistan,AFG,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,0.42,0.43,0.45,0.47,0.46,0.46,0.44,0.45,0.42,0.4,0.38,0.34,0.36,..,..
+Burkina Faso,BFA,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,56,..,..,..,..,..,..,..,..,..,..,..,..,..
+Burkina Faso,BFA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,65.9,..,..,..,..,79.8,..,..,..,..,..,..,..,..
+Burkina Faso,BFA,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,0.126,..,0.127,..,..,..,..,..,..,..,..,..,..,..
+Burkina Faso,BFA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.08159161,5.23958349,4.64868164,4.60267258,5.56331587,5.00027227,5.13192415,5.96067238,6.02490044,5.0057807,5.31868935,6.50193262,6.37691164,..,..
+Burkina Faso,BFA,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,30.68659401,32.8663559,33.8243866,33.78236771,42.40937042,38.37065506,32.44025803,39.64500427,43.07155609,39.00283813,41.07073212,54.17696762,56.95098114,..,..
+Burkina Faso,BFA,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,32.30834961,24.93154144,28.9587841,23.12789345,28.98208809,32.53527451,28.37508011,40.0837326,43.30178452,42.50740814,41.813591,43.45897293,42.81739426,..,..
+Burkina Faso,BFA,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,36.71234512,33.64440918,38.41626358,38.6616478,41.50682831,43.8604393,46.95412827,36.43960953,38.70117188,42.30843353,42.38819504,38.38487625,39.09840012,..,..
+Burkina Faso,BFA,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,30.97930145,41.42404938,32.62495041,38.21045685,29.5110836,23.60428619,24.67079163,23.47665787,17.99704552,15.18416309,15.79821396,18.15622139,18.08420944,..,..
+Burkina Faso,BFA,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,31.44069099,30.16873169,32.88170242,32.38356781,33.53733063,34.07847595,36.02980042,31.38309479,31.67767906,35.83074951,34.69356155,34.64083481,34.64732361,..,..
+Burkina Faso,BFA,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,1.02,..,..,..,..,2.02,..,..,..,2.22,..,..,..,..,..
+Burkina Faso,BFA,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,0.83,..,..,..,..,0.93,..,..,..,2.35,..,..,..,..,..
+Burkina Faso,BFA,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,3.52,..,..,..,..,3.13,..,..,..,8.37,..,..,..,..,..
+Burkina Faso,BFA,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,20.3,..,..,..,..,..,..,..,..,..,..,..,..,..
+Burkina Faso,BFA,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,92,91,91,90,88,91,91,91,91,91,91,91,91,91,..
+Burkina Faso,BFA,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,..,0.4,..,..,..,..,..,..,..,..,..,0.2,..,..,..
+Burundi,BDI,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,54.7,..,54.1,..,..,..,..,58.5,..,..,..,..,..,..
+Burundi,BDI,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,60.3,..,78.4,..,..,..,77.6,79.1,86.2,98.6,87.4,76.5,..,..
+Burundi,BDI,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Burundi,BDI,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,9.23238468,11.28196716,10.06996346,8.63756466,8.62834644,7.21081543,6.29022646,7.06148243,6.95275736,7.29396152,9.05010796,10.71837234,9.10190964,..,..
+Burundi,BDI,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,18.82117844,25.12049484,23.81056213,20.57489777,20.8417263,18.59082222,18.2036705,19.16795921,19.77140808,19.27294159,22.95755196,27.07072449,24.26920891,..,..
+Burundi,BDI,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,22.53801346,17.59703827,34.46959686,30.9056015,17.85822868,38.64748383,38.46514511,31.66303062,28.96152306,28.20852852,25.13971901,20.14390373,24.47496986,..,..
+Burundi,BDI,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,36.98011017,29.39211464,27.25948143,24.78526688,22.82637978,33.33250427,33.53721619,30.43211365,31.09771919,28.72589684,23.52999687,23.26885605,28.80387688,..,..
+Burundi,BDI,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,40.48187637,53.010849,38.2709198,44.30913162,59.31538773,28.02001381,27.99764252,37.90485764,39.94075775,43.06557465,51.33028793,56.58723831,46.72115326,..,..
+Burundi,BDI,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,35.45698547,28.18636131,25.47524261,22.40234756,20.86187553,31.00106621,31.20963097,28.36751747,28.99659729,27.11566162,22.21640587,20.45733452,25.36169243,..,..
+Burundi,BDI,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,..,..,1.4,..,..,..,..,..,..,..,..,..,..
+Burundi,BDI,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,..,..,0.58,..,..,..,..,..,..,..,..,..,..
+Burundi,BDI,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,..,..,3.29,..,..,..,..,..,..,4.77,..,..,..
+Burundi,BDI,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,49,..,..,..,..,..,..,40.3,..,..,..,..,..,..
+Burundi,BDI,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,94,96,96,96,96,95,94,94,91,90,93,93,94,91,..
+Burundi,BDI,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,..,..,..,1.02,0.73,0.71,..,..,..,..,..,..,..,..,..
+Central African Republic,CAF,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,29.8,..,..,..,..,..,..,..,..,34.7,..,..,..,..
+Central African Republic,CAF,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,43.7,40,..,..,..,..,..,..,..,..,40.3,..,..,..,..
+Central African Republic,CAF,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.393,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Central African Republic,CAF,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.81901121,3.56699872,3.67561865,3.91814446,4.76660204,4.56557369,5.03434181,5.44402313,6.66541576,10.99657822,7.76124763,8.98538017,9.06853294,..,..
+Central African Republic,CAF,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,21.82637405,16.40023994,18.9371357,20.60425186,16.78926849,18.02748299,17.71483231,20.25914001,27.64416504,49.17564392,33.9444313,40.11012268,42.92785645,..,..
+Central African Republic,CAF,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,15.19034481,16.17175674,11.30035496,15.89074802,20.62112236,15.57443905,9.05484867,11.0127058,10.93435097,6.26232672,10.55165577,13.59413528,13.94029903,..,..
+Central African Republic,CAF,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,50.45884323,60.92179489,59.82344055,59.12965393,46.24708557,47.39440155,49.54203415,56.16417313,57.60929489,42.36107635,61.55038834,50.50315857,49.78483582,..,..
+Central African Republic,CAF,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,34.35081482,22.90645218,28.87620544,24.979599,33.13179016,37.03115845,41.40312195,32.82312393,31.45635605,51.37660217,27.89796257,35.90270233,36.27486038,..,..
+Central African Republic,CAF,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,49.31325912,59.52026749,58.58395386,58.08099365,45.23834229,46.46343231,48.77671814,55.20955658,56.41589355,41.67272949,60.55822754,49.67550659,48.96758652,..,..
+Central African Republic,CAF,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Central African Republic,CAF,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Central African Republic,CAF,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Central African Republic,CAF,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Central African Republic,CAF,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,42,45,47,47,23,45,43,42,42,42,42,42,42,42,..
+Central African Republic,CAF,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,..,..,1,..,..,..,..,..,..,..,..,..,..,..,..
+Chad,TCD,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,26.1,..,..,..,..,25.8,..,..,..,17.6,..,..,..,..
+Chad,TCD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,16.6,..,..,..,..,24.3,..,..,..,47.2,..,..,..,..
+Chad,TCD,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Chad,TCD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.44166946,4.06023312,3.91046357,3.8560791,4.06645298,4.27316904,4.52395248,4.73396969,4.64740467,4.56768799,4.59277868,5.53655243,5.19022274,..,..
+Chad,TCD,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,36.02885056,36.498703,38.68487549,37.49700546,39.97917175,43.6758728,35.03440857,33.10380936,31.06099701,32.30886459,31.30481529,35.72977829,35.63117981,..,..
+Chad,TCD,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,20.85106277,20.98161697,21.09589958,24.55139542,28.24672318,28.53781509,21.26423645,17.37352562,14.97930717,14.23211384,15.21876431,16.75219917,17.29240417,..,..
+Chad,TCD,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,71.02245331,73.07261658,66.15233612,64.61224365,63.75331116,60.58203506,61.67253494,59.95672989,65.10282898,66.42906189,65.69302368,62.42750168,60.64839172,..,..
+Chad,TCD,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,8.12647724,5.94576263,12.75176048,10.83635712,7.99996519,10.88014603,17.0632267,22.66974258,19.91786766,19.3388176,19.08821869,20.82029724,22.05920601,..,..
+Chad,TCD,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,65.01296997,67.58454132,60.77016068,59.42821884,58.6379509,55.72120285,56.72420502,55.14606857,59.87926483,64.376091,63.66061783,60.54256439,58.78679276,..,..
+Chad,TCD,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,1.62,..,..,..,..,..,..,2.68,..,..,..,..,..
+Chad,TCD,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,1.89,..,..,..,..,..,..,1.61,..,..,..,..,..
+Chad,TCD,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,8.69,..,..,..,..,..,..,9.3,..,..,..,..,..
+Chad,TCD,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,..,..,27.1,..,..,..,..,..,..,..,..
+Chad,TCD,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,25,39,33,40,39,36,42,41,41,46,50,52,58,60,..
+Chad,TCD,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,..,..,..,..,..,..,0.49,..,0.45,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,40.3,..,..,..,41.6,..,..,..,34.2,..,..,..,..,..
+"Congo, Dem. Rep.",COD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,74.1,..,..,..,80.1,..,..,..,85.2,..,..,..,..,..
+"Congo, Dem. Rep.",COD,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.51133156,3.72224283,3.19435549,3.2215035,3.34057522,3.72520614,3.74785447,4.20027828,4.00057793,3.24127173,3.508039,4.05092573,3.7859261,..,..
+"Congo, Dem. Rep.",COD,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,13.18276978,12.53950882,12.27988434,13.62572193,15.86667633,18.79024887,19.13417244,19.91032028,18.74936485,17.87852287,19.85771751,21.25385666,22.32123756,..,..
+"Congo, Dem. Rep.",COD,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,6.8586936,10.30625916,10.8527813,16.13481903,13.97492123,13.8438139,16.67854881,12.62530518,9.94900703,15.07837677,15.81804085,16.06189919,16.76400948,..,..
+"Congo, Dem. Rep.",COD,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,52.0141716,44.92355728,44.10102844,46.22848511,45.87931061,45.96086121,44.05062103,44.14630508,47.57791901,49.70476913,45.35539246,46.45769119,45.7287941,..,..
+"Congo, Dem. Rep.",COD,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,41.12713242,44.77018356,45.04618835,37.63668823,40.14576721,40.19532776,39.27082825,43.22838593,42.47307205,35.21685028,38.82657242,37.48040771,37.50719833,..,..
+"Congo, Dem. Rep.",COD,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,45.41014099,37.0503006,38.82409668,40.27502823,39.43297195,38.71640778,37.42670822,37.29187775,40.12471771,41.61063766,38.49700546,39.71793747,39.12869644,..,..
+"Congo, Dem. Rep.",COD,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,..,1.18,..,..,..,..,..,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,..,0.44,..,..,..,..,..,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,..,4.82,..,..,..,..,..,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,..,30.7,..,..,..,..,..,..,..,..,..
+"Congo, Dem. Rep.",COD,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,71,60,70,71,71,73,70,70,71,71,73,70,65,65,..
+"Congo, Dem. Rep.",COD,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Eritrea,ERI,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,44.8,..,..,..,..,..,..,..,..,..,..,..,..,..
+Eritrea,ERI,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,34.1,..,..,..,..,..,..,..,..,..,..,..,..,..
+Eritrea,ERI,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Eritrea,ERI,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.38878489,4.83844233,5.16795397,3.7449646,4.97097206,4.02524328,4.45034695,3.6608541,3.98912001,4.12701797,4.58734369,4.15886974,4.15077114,..,..
+Eritrea,ERI,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,22.65766335,24.43300056,33.27035522,25.96233749,29.52669525,31.54170799,26.82466125,23.64590836,22.35861588,24.02440262,25.98394394,24.70353127,25.36040497,..,..
+Eritrea,ERI,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,19.14518929,21.22438622,14.91714001,21.17957115,15.6886816,12.7732029,16.63834572,20.03576279,25.2525959,15.61161518,17.12012291,20.07405281,21.20282936,..,..
+Eritrea,ERI,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,46.11646652,48.45648193,36.43447495,52.51751709,48.74490356,52.27241135,42.10213852,58.14766693,44.81046295,48.88093185,44.77917099,46.85018921,49.50627136,..,..
+Eritrea,ERI,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,34.73834229,30.31912994,48.64838791,26.30291176,35.56641006,34.95438385,41.25951385,21.8165741,29.93693924,35.50745392,38.10070801,33.07575989,29.29089737,..,..
+Eritrea,ERI,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,46.11647034,48.45648575,36.43447495,52.51751709,48.74490738,52.27241135,42.10213852,58.14766312,44.81046677,48.88093185,44.77917099,46.85018539,49.50627518,..,..
+Eritrea,ERI,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Eritrea,ERI,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Eritrea,ERI,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Eritrea,ERI,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Eritrea,ERI,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,95,95,94,94,94,94,95,95,95,95,95,95,95,95,..
+Eritrea,ERI,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,1.31,1.19,1.24,1.21,1.16,1.15,1.15,1.14,1.14,1.08,1.01,1,..,..,..
+Ethiopia,ETH,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,..,27,..,..,..,..,29.8,..,..,..,..,..,..,..
+Ethiopia,ETH,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,..,10,..,23.1,15.5,..,27.7,..,..,49.8,..,..,..,..
+Ethiopia,ETH,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.363,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Ethiopia,ETH,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.64983416,5.46637249,4.46897745,4.5395956,4.07506514,4.03365517,3.82316828,3.60033751,3.45336914,3.30371761,3.23382378,3.48096275,3.20824432,..,..
+Ethiopia,ETH,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,15.36375141,16.40672684,14.83500671,20.28753662,19.53577042,21.90294838,23.53430557,24.67317772,24.51061249,23.84538269,26.22917175,28.69671059,26.47735214,..,..
+Ethiopia,ETH,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,19.50622368,17.26854897,8.52936554,23.4961834,26.98538589,17.72078896,25.25154305,24.99847794,24.93995667,23.19889832,22.60126495,28.23314095,30.52074814,..,..
+Ethiopia,ETH,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,46.90293503,48.28907013,53.94320297,48.55954742,49.74310303,58.84427261,56.48737717,54.76727676,39.70265579,40.65382385,43.24883652,37.31850815,41.17137909,..,..
+Ethiopia,ETH,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,33.59083939,34.44238663,37.52743149,27.94426346,23.27151108,23.43493462,18.26107597,20.23424911,35.35738373,36.14728546,34.14990616,34.44835281,28.30786896,..,..
+Ethiopia,ETH,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,41.53925705,42.29021072,46.53789139,42.16745377,42.40406799,38.47408676,36.74348068,35.43159103,34.40161896,35.49158096,37.9252243,33.07913589,36.99786377,..,..
+Ethiopia,ETH,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,0.84,..,..,..,0.86,..,..,..,..,..,..,..,..
+Ethiopia,ETH,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,0.42,..,..,..,1.01,..,..,..,..,..,..,..,..
+Ethiopia,ETH,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,1.88,..,..,..,2.12,..,..,3.48,..,..,..,..,..
+Ethiopia,ETH,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,53.4,..,..,..,..,38,..,..,..,..,..,..,..
+Ethiopia,ETH,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,58,61,65,62,59,61,63,66,68,67,68,71,65,65,..
+Ethiopia,ETH,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,..,..,6.3,..,..,..,0.3,0.33,..,..,..,..,..,..,..
+"Gambia, The",GMB,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,68.8,..,..,68,..,..,..,..,53.2,..,70.3,..,..,..
+"Gambia, The",GMB,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,56.1,..,..,57.2,..,..,..,..,82.7,..,83.8,..,..,..
+"Gambia, The",GMB,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Gambia, The",GMB,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.46430683,4.11944056,4.36967373,4.26872253,3.91374874,3.05234575,3.1761291,3.19523716,3.35449266,3.34384227,3.158566,3.72824287,3.18962693,..,..
+"Gambia, The",GMB,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,34.4699173,32.81699753,30.82727623,29.30704689,25.33724403,17.14346313,19.42744446,20.47114944,21.2003746,22.84936142,22.83255005,26.24802017,24.62883568,..,..
+"Gambia, The",GMB,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,20.28476715,22.29020119,23.88619232,28.25725174,27.69123077,35.78516769,31.4310894,40.36533356,31.62859535,31.98107147,41.18076706,65.05052185,50.66082001,..,..
+"Gambia, The",GMB,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,22.4592514,23.61208725,24.36156464,24.51768875,26.2942543,36.22048569,33.61744308,32.90965652,31.68758965,29.53679466,31.71093178,27.2722187,31.98589134,..,..
+"Gambia, The",GMB,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,57.25598145,54.09770966,51.75224304,47.22505951,46.01451492,27.99434471,34.95146942,26.72500992,36.683815,38.48213959,27.10829735,7.67725945,17.35328674,..,..
+"Gambia, The",GMB,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,17.00421524,18.03235817,19.22835732,19.44658852,20.90031433,26.8266964,23.41558647,30.49933815,26.66901207,22.43855858,20.21388626,17.38969421,20.39666367,..,..
+"Gambia, The",GMB,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,0.42,..,..,..,..,0.2,..,..,..,..,..,..,..,..
+"Gambia, The",GMB,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,0.38,..,..,..,..,0.31,..,..,..,..,..,..,..,..
+"Gambia, The",GMB,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,0.61,..,..,..,..,0.2,..,..,..,..,..,..,..,..
+"Gambia, The",GMB,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,40.5,..,..,..,..,..,..,19.5,..,..,..
+"Gambia, The",GMB,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,98,97,96,98,97,96,97,95,92,93,88,85,82,79,..
+"Gambia, The",GMB,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,1.1,..,1.1,..,..,1.04,1.01,1.06,..,..,0.94,1.11,1.15,..,..
+Guinea-Bissau,GNB,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,52.1,..,..,..,34.3,..,..,..,..,47.6,..,..,..,..
+Guinea-Bissau,GNB,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,43,..,..,..,45,..,..,..,..,53.8,..,..,..,..
+Guinea-Bissau,GNB,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Guinea-Bissau,GNB,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.73428679,5.26704073,6.21634817,5.94134808,7.03943443,9.96897411,8.13228226,8.32881451,7.00049543,7.28130722,7.16052532,9.02139282,8.2233429,..,..
+Guinea-Bissau,GNB,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,27.59508705,31.5948391,44.70295334,37.72527695,46.01106644,64.91837311,52.38645935,56.52604294,54.74217224,58.78644943,54.0177002,68.04572296,68.81868744,..,..
+Guinea-Bissau,GNB,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,10.9842062,8.8868618,7.02833176,8.49044514,7.83588552,5.98356056,6.613132,5.81887054,7.11933374,6.93932724,6.40707111,13.30711365,13.81995392,..,..
+Guinea-Bissau,GNB,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,57.70223618,49.667099,40.03805161,63.29792404,68.0993042,57.94044113,69.92347717,67.4863739,71.71472168,70.1144104,73.03073883,59.23788452,62.94657135,..,..
+Guinea-Bissau,GNB,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,31.31355667,41.44603729,52.93362045,28.2116375,24.06480789,36.07600021,23.46339226,26.69475555,21.16594315,22.94626427,20.56219292,27.45499802,23.23347855,..,..
+Guinea-Bissau,GNB,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,51.6293335,44.4398613,35.82422256,58.73207855,64.34107971,55.38848114,66.92208862,64.58337402,68.41368103,66.98838806,69.48217773,56.43703079,59.9703598,..,..
+Guinea-Bissau,GNB,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,1.15,..,..,..,..,..,..,..,1.93,..,..,..,..,..
+Guinea-Bissau,GNB,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,0.57,..,..,..,..,..,..,..,1.94,..,..,..,..,..
+Guinea-Bissau,GNB,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,6.26,..,..,..,..,..,..,..,5.05,..,..,..,..,..
+Guinea-Bissau,GNB,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Guinea-Bissau,GNB,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,80,83,86,87,87,86,86,85,79,82,78,74,67,74,..
+Guinea-Bissau,GNB,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,1,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,79.8,..,..,..,..,..,..,..,85.6,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,100,..,..,..,..,..,..,..,99.5,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Korea, Dem. People's Rep.",PRK,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,93,93,94,96,93,93,96,96,97,97,97,97,41,0,..
+"Korea, Dem. People's Rep.",PRK,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,..,14.3,..,13.2,..,..,..,..,..,..,..,..,..,..,..
+Liberia,LBR,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,..,..,..,50.7,..,..,..,..,..,..,78.4,..,..,..
+Liberia,LBR,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,..,..,..,61.1,..,..,..,..,..,..,84.4,..,..,..
+Liberia,LBR,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,0.061,..,..,..,..,..,..,..,..,..,..,..,..,..
+Liberia,LBR,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,11.57163811,10.35444641,9.71052551,8.15444565,7.09007835,8.77403069,10.46927643,9.90062618,10.47271252,10.35222721,8.42100334,16.96832657,16.6163311,..,..
+Liberia,LBR,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,52.30115128,50.63946533,54.34541321,50.35652542,48.74785614,59.98974228,70.18363953,68.4992981,72.50897217,69.10813904,52.02645493,101.2913055,112.2704468,..,..
+Liberia,LBR,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,10.35317326,12.29618359,15.63554859,19.01746559,4.83034563,9.38659096,11.50230694,14.0714283,13.24830627,16.29847336,16.10596466,5.47854662,6.53418064,..,..
+Liberia,LBR,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,52.60827255,56.37090683,50.56223297,49.21627045,43.45730591,52.09183884,53.72969055,55.32456589,54.78058624,54.1660881,59.33453369,80.78565979,75.92010498,..,..
+Liberia,LBR,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,37.03855515,31.33291245,33.80221939,31.76626587,51.71234894,38.5215683,34.76800156,30.60400581,31.9711113,29.53543854,24.55949783,13.73579216,17.54570961,..,..
+Liberia,LBR,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,49.68375015,53.41116333,47.42193222,45.54619217,39.39292526,48.88152313,45.55855942,46.68182373,46.16778946,45.58655167,54.42869186,26.26482391,24.67733574,..,..
+Liberia,LBR,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,..,..,..,6.74,..,2.45,..,..,..,..,..,..,..
+Liberia,LBR,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,..,..,..,5.28,..,1.96,..,..,..,..,..,..,..
+Liberia,LBR,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,..,..,..,22.33,..,6.75,..,..,..,..,..,..,..
+Liberia,LBR,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,67.2,..,..,..,..,..,..,58.8,..,..,..
+Liberia,LBR,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,81,70,77,80,80,63,65,73,80,80,70,65,66,78,..
+Liberia,LBR,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,0.7,0.8,..,..,..,..,..,0.63,..,1.64,..,..,1.59,..,..
+Madagascar,MDG,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,42,..,..,..,40.5,..,..,..,..,40.4,..,..,..,..,..
+Madagascar,MDG,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,43.9,..,..,..,44.3,..,..,..,..,46.1,..,..,45.8,..,..
+Madagascar,MDG,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Madagascar,MDG,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.38469839,4.69762659,4.521595,3.9110589,3.75156283,4.46240282,5.0062542,5.33248854,4.80225992,4.22846937,3.10129309,3.72316122,3.5045228,..,..
+Madagascar,MDG,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,19.96823883,21.57974052,23.37224197,19.71853828,19.75903702,23.07670021,22.81040573,24.77560616,24.17928314,21.67276382,15.88729572,17.21605492,17.64008904,..,..
+Madagascar,MDG,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,29.81909943,39.76140213,37.11377335,38.09178162,34.7657547,39.17490768,39.75247574,44.48103333,46.77279663,35.55943298,22.01306152,18.52955818,21.03363609,..,..
+Madagascar,MDG,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,45.45381165,44.44105911,36.7665863,42.71012878,44.94179153,35.87094116,32.04604721,29.45782852,30.29995346,34.60900116,39.79958725,35.8677063,38.51412964,..,..
+Madagascar,MDG,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,24.72708511,15.7975378,26.11964035,19.1980896,20.29245567,24.95414925,28.20148087,26.06113815,22.92724419,29.83156395,38.18735504,45.6027298,40.45223236,..,..
+Madagascar,MDG,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,37.6555481,36.15040588,27.97330856,32.48873138,35.58833694,28.16691399,25.1729393,23.05756378,25.63452339,29.28008461,34.22468185,30.93841553,32.71157837,..,..
+Madagascar,MDG,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,0.41,..,0.45,..,..,..,..,..,..,..,..,..,..,..
+Madagascar,MDG,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,0.2,..,0.29,..,..,..,..,..,..,..,..,..,..,..
+Madagascar,MDG,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,1.64,..,2.87,..,..,..,..,..,..,..,..,..,..,..
+Madagascar,MDG,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,73.6,..,..,..,..,..,..,..,..,..,..,..,72,..,..
+Madagascar,MDG,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,77,70,73,68,70,68,62,68,65,74,70,68,57,57,..
+Madagascar,MDG,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,..,0.34,0.32,..,0.33,0.32,..,..,..,..,..,..,..,..,..
+Malawi,MWI,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,70.3,..,..,..,68.2,..,77.2,..,..,..,71.1,..,..,..
+Malawi,MWI,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,71.4,..,..,..,87.4,..,89.8,..,..,..,96.4,..,..,..
+Malawi,MWI,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Malawi,MWI,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.87333822,5.14304781,5.32226658,6.02199793,8.22379494,6.89776182,6.62879086,7.72703791,7.58438921,6.87366676,7.15010023,7.0088768,7.41194487,..,..
+Malawi,MWI,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,35.80582047,34.2412796,39.60096741,32.80570221,39.87806702,35.64556885,35.27587891,34.32816696,37.93450165,36.97562408,41.78248596,42.5414238,46.55551147,..,..
+Malawi,MWI,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,17.97539139,22.00963974,21.6523304,15.88224602,18.02148628,22.73353958,28.64990425,24.73157692,22.66757011,24.44002914,23.41406059,22.28953171,18.3855381,..,..
+Malawi,MWI,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,19.90061188,15.22517681,13.92924118,13.32955742,13.72673702,14.23048496,17.84918785,21.55489731,17.47722816,18.12243652,17.24943542,22.23474312,19.87660027,..,..
+Malawi,MWI,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,62.12399673,62.76517868,64.41842651,70.78819275,68.25177765,63.03597641,53.5009079,53.71352768,59.85520554,57.43753433,59.33650589,55.47572327,61.73786163,..,..
+Malawi,MWI,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,11.23561096,10.92772293,8.96164322,10.24162579,6.70596313,8.18288803,10.9818964,12.41495895,12.69519043,12.8176527,12.19738483,15.79892921,14.1083765,..,..
+Malawi,MWI,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,0.59,..,..,0.55,..,..,..,..,..,0.87,..,..,..,..
+Malawi,MWI,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,0.35,..,..,0.33,..,..,..,..,..,0.19,..,..,..,..
+Malawi,MWI,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,1.64,..,..,6.62,..,..,..,..,..,2.91,..,..,..,..
+Malawi,MWI,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,42.2,..,..,..,..,..,44.7,..,..,..,..,..,..,..
+Malawi,MWI,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,93,93,97,96,89,91,88,84,88,92,95,94,93,86,..
+Malawi,MWI,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,..,..,1.3,..,..,..,..,..,..,..,..,..,..,..,..
+Mali,MLI,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,36.2,..,..,26.7,..,23,..,..,34.7,..,..,..,..,..
+Mali,MLI,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,28.1,..,..,58.6,..,43.7,..,..,67.3,..,..,..,..,..
+Mali,MLI,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,0.008,0.007,..,..,..,..,..,..,..,..,..,..,..,..,..
+Mali,MLI,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.2122364,4.67865133,4.01483774,3.7521615,3.96750712,4.48158312,4.11143351,3.77377558,3.67425752,3.73249912,3.82943797,3.47597885,4.47341442,..,..
+Mali,MLI,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,35.57579422,32.20446396,32.52751923,28.26848984,30.89883041,36.67969894,29.7465477,28.3053112,29.23488998,31.96352005,32.17400742,28.85294724,40.1202507,..,..
+Mali,MLI,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,12.771595,14.29752636,15.06325722,11.0209074,20.56299591,19.89782524,22.35896111,32.03073883,32.04769135,30.84214401,29.22816658,40.00576401,29.33131599,..,..
+Mali,MLI,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,63.67960739,58.35007477,52.39247513,47.31335831,37.36685562,35.75758362,36.325634,37.74137878,39.32704544,34.16210556,54.79129791,53.76226044,41.00059509,..,..
+Mali,MLI,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,23.5487957,27.35239983,32.54426956,41.66573715,42.07015228,44.34458923,41.31540298,30.22788048,28.62526512,34.99575043,15.98053455,6.23197651,29.66808701,..,..
+Mali,MLI,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,61.83541489,56.26623917,50.00261307,44.74382782,34.81934357,33.55117416,34.17124557,35.75055695,37.50244141,32.55354309,31.07923317,44.73706055,34.0938797,..,..
+Mali,MLI,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,2.14,..,1.84,..,..,..,2.31,..,..,..,..,..,..,..,..
+Mali,MLI,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,0.83,..,1.2,..,..,..,0.97,..,..,..,..,..,..,..,..
+Mali,MLI,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,4.41,..,2.56,..,..,3.46,2.13,1.95,1.51,2.06,1.8,..,1.7,..,..
+Mali,MLI,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,6.5,..,..,..,..,5.3,..,..,..,..,..
+Mali,MLI,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,73,73,66,65,64,66,71,76,77,77,77,70,77,77,..
+Mali,MLI,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,0.2,0.25,0.25,0.23,0.23,0.25,0.26,0.23,0.23,0.25,..,..,..,..,..
+Mozambique,MOZ,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,..,50.2,..,..,..,56.5,..,..,..,..,..,..,..,..
+Mozambique,MOZ,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,..,54.3,..,..,..,73,..,..,..,..,..,..,..,..
+Mozambique,MOZ,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,0.047,0.045,..,..,..,..,..,..,..,..,..,..
+Mozambique,MOZ,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.20390034,5.43892908,5.00311899,5.24640608,6.12585449,6.33251858,6.71663332,7.28134441,7.83763266,8.0889616,7.95272589,7.56957626,9.05218315,..,..
+Mozambique,MOZ,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,27.63411713,26.17583847,30.28253746,35.03115845,41.17826843,43.08488846,39.91206741,31.38208961,36.26471329,40.8117218,40.41284943,34.37060928,44.52215576,..,..
+Mozambique,MOZ,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,25.23112679,23.49941826,25.5083828,24.03585434,24.78886986,27.48966789,27.03023148,23.92681694,22.23585129,22.339571,23.14440155,31.66282845,28.39583206,..,..
+Mozambique,MOZ,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,9.57833767,8.49968624,8.34747982,17.5775013,16.64415741,18.54088211,18.28590393,17.02968597,15.69281483,15.32885265,15.45444489,16.3225708,14.08927536,..,..
+Mozambique,MOZ,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,65.1905365,68.00089264,66.14413452,58.38664246,58.56697083,53.9694519,54.68386459,59.04349899,62.07133865,62.3315773,61.40115356,52.01459885,57.51488876,..,..
+Mozambique,MOZ,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,8.2377615,7.1121192,6.71953869,5.5548296,8.01625633,10.42437363,11.26148605,10.55004883,9.67307854,9.49615574,9.52183342,10.08967018,8.87722778,..,..
+Mozambique,MOZ,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,..,..,..,0.49,..,..,..,..,..,..,..,..,..
+Mozambique,MOZ,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,..,..,..,0.24,..,..,..,..,..,..,..,..,..
+Mozambique,MOZ,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,..,..,..,1.61,..,..,..,..,3.58,..,..,..,..
+Mozambique,MOZ,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,49.1,..,..,..,..,..,..,..,..,..,..,..,..
+Mozambique,MOZ,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,74,74,78,81,85,88,88,88,88,88,88,79,61,61,..
+Mozambique,MOZ,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,0.84,0.85,0.84,0.85,0.8,0.8,0.78,0.78,0.76,0.76,0.71,0.7,0.73,..,..
+Niger,NER,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,..,..,53.1,..,..,59.3,..,..,..,..,..,..,..,..
+Niger,NER,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,..,..,29.3,..,..,39.7,39.1,..,..,..,..,43.7,..,..
+Niger,NER,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Niger,NER,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.33850145,4.96100473,4.87323856,4.30732679,4.46636009,4.45377159,5.34745932,4.53239059,5.57609606,5.30310822,5.66642094,6.17012262,5.81452751,..,..
+Niger,NER,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,24.40502357,23.33815765,24.68768311,22.56604767,24.43749619,24.89271736,25.72568893,22.42886543,28.69141388,30.08619118,31.21994209,34.85019302,34.34204865,..,..
+Niger,NER,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,28.80542183,26.44500732,26.10781479,24.14341927,30.01208878,28.67515373,20.7880249,24.28881836,33.80760956,33.3120842,35.69034195,37.49778366,36.49679565,..,..
+Niger,NER,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,59.23456192,61.24464417,63.15813065,62.68271637,58.13817215,58.06819916,54.6564827,60.9499855,51.71551132,54.87833023,49.06087875,46.76221085,49.20999527,..,..
+Niger,NER,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,11.96001339,12.31034565,10.7340517,13.17387104,11.84974003,13.25664997,24.55548859,14.76120186,14.47688198,11.80958366,15.24877357,15.74001217,14.29320717,..,..
+Niger,NER,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,53.66799545,55.53378677,57.73744583,60.80649567,56.5436821,54.67353821,51.68564987,58.51040268,48.3137207,48.96118927,46.09529114,43.54859924,42.52769852,..,..
+Niger,NER,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,3.08,..,..,..,..,..,..,2.58,..,..,..,..,..
+Niger,NER,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,1,..,..,..,..,..,..,1.21,..,..,..,..,..
+Niger,NER,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,6.63,..,..,..,..,..,..,6.52,..,..,..,..,..
+Niger,NER,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,7.3,..,..,..,..,..,..,..,..,..,..,..
+Niger,NER,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,71,70,75,71,73,81,84,80,85,79,81,81,82,84,..
+Niger,NER,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,..,0.35,..,0.44,0.32,0.29,0.26,0.3,0.18,0.24,0.29,0.27,..,..,..
+Rwanda,RWA,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,..,50.2,..,..,..,53.9,..,..,..,..,..,..,..,..
+Rwanda,RWA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,69,69,..,..,..,90.7,..,..,..,..,94.2,..,..,..
+Rwanda,RWA,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Rwanda,RWA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,7.80694866,8.08696938,7.93879843,8.10667801,6.77649164,6.98844194,6.65446424,6.96060848,6.38999748,6.69894743,6.34386826,7.47530079,7.32305002,..,..
+Rwanda,RWA,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,44.08419418,48.02530289,51.65081787,57.216465,47.7094574,50.62351608,48.80509567,50.70415497,48.34190369,51.54394531,51.18757629,57.91234207,60.2185936,..,..
+Rwanda,RWA,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,24.10978508,25.22313118,27.69262123,25.35917282,32.06929779,31.39990044,31.6441555,32.09072113,34.8804512,34.95684433,39.66534805,40.43887329,40.8235054,..,..
+Rwanda,RWA,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,22.9703083,22.84549332,22.88555908,21.30692482,23.67443848,21.512537,26.16271019,24.64941978,25.78299713,25.87659073,26.95556068,23.77607918,23.32616425,..,..
+Rwanda,RWA,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,52.91990662,51.93137741,49.42181396,53.33390427,44.25626373,47.08756256,42.19313431,43.25985718,39.33655167,39.16656494,33.37908936,35.78504944,35.85033035,..,..
+Rwanda,RWA,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,11.37705517,11.0873909,10.79211998,10.17707443,12.30982971,12.07820892,12.18094063,11.36179352,11.81888771,11.8659668,12.1073637,10.27080822,10.13342953,..,..
+Rwanda,RWA,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,..,..,0.51,..,..,0.5,..,..,..,..,..,..,..
+Rwanda,RWA,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,..,..,0.24,..,..,0.21,..,..,..,..,..,..,..
+Rwanda,RWA,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,..,..,1.63,..,..,1.15,..,..,..,..,..,..,..
+Rwanda,RWA,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,60.1,..,..,..,..,69.5,..,..,..,..,61.3,..,..,..
+Rwanda,RWA,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,97,97,97,98,98,98,98,98,98,97,98,91,88,98,..
+Rwanda,RWA,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,0.75,0.74,0.72,0.71,0.77,0.71,0.74,0.73,0.72,0.72,0.72,0.74,..,..,..
+Sierra Leone,SLE,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,73.7,..,..,71.7,..,..,..,73.8,..,75.8,..,..,..,..
+Sierra Leone,SLE,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,60.8,..,..,59.7,..,..,..,81.6,..,86.9,..,..,..,..
+Sierra Leone,SLE,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,0.023,..,..,..,..,..,..,..,..,..,..,..,..,..
+Sierra Leone,SLE,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,9.68422222,9.12688351,10.76753807,8.94355106,11.59017754,19.69004631,19.65816307,15.78850651,9.3997612,8.28987598,9.12992668,9.32588673,8.55334282,..,..
+Sierra Leone,SLE,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,37.96392822,36.55500031,47.91463089,50.08378601,81.8790741,138.2906494,114.1648254,81.37689209,45.5368042,43.07834244,46.25284195,46.01692963,43.1619873,..,..
+Sierra Leone,SLE,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,10.11566544,14.43241596,10.69332123,10.8063612,6.95602989,6.7925539,6.54666138,6.57119513,9.05301762,9.27250576,13.61179066,14.62678528,22.63207436,..,..
+Sierra Leone,SLE,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,65.93405914,56.68533325,60.72132492,68.32346344,63.25536728,40.41848373,40.99353027,50.20306778,56.18978882,61.85616684,54.20046234,53.46459198,51.69986725,..,..
+Sierra Leone,SLE,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,23.95027351,28.88224411,28.58535385,20.87017632,29.78859711,52.78896713,52.45980835,43.22573471,34.75718689,28.87133408,32.18774796,31.90862083,25.66805458,..,..
+Sierra Leone,SLE,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,65.43760681,56.25852203,60.26411819,67.80901337,62.77908325,35.03469467,35.59750748,43.49287415,54.49611282,60.98888779,52.88983917,52.34044266,51.40983582,..,..
+Sierra Leone,SLE,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,9.37,..,..,..,..,..,..,4.19,..,..,..,..,..
+Sierra Leone,SLE,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,6.58,..,..,..,..,..,..,3.36,..,..,..,..,..
+Sierra Leone,SLE,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,37.09,..,..,..,..,..,..,16.4,..,..,..,..,..
+Sierra Leone,SLE,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,40.2,..,..,..,..,..,27.8,..,..,..,..
+Sierra Leone,SLE,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,84,86,89,91,92,83,86,84,90,93,95,91,92,91,..
+Sierra Leone,SLE,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Somalia,SOM,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,..,..,..,..,..,..,..,..,..,22.5,..,..,..,..
+Somalia,SOM,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,..,..,..,..,..,..,..,..,..,31.9,..,..,..,..
+Somalia,SOM,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Somalia,SOM,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Somalia,SOM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Somalia,SOM,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Somalia,SOM,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Somalia,SOM,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Somalia,SOM,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Somalia,SOM,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,..,..,..,..,..,0.28,0.18,..,..,..,..,..,..
+Somalia,SOM,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,..,..,..,..,..,0.1,0.04,..,..,..,..,..,..
+Somalia,SOM,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,..,..,..,..,..,0.55,0.13,..,..,..,..,..,..
+Somalia,SOM,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Somalia,SOM,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,42,45,41,42,42,42,42,42,42,42,42,42,42,42,..
+Somalia,SOM,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,..,..,..,..,0.87,0.87,0.87,0.87,0.87,0.87,0.87,..,..,..,..
+South Sudan,SSD,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,47.6,..,..,..,..,..,..,..,..,..,..,..,..,..
+South Sudan,SSD,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,19.4,..,..,..,..,..,..,..,..,..,39.7,..,..,..
+South Sudan,SSD,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+South Sudan,SSD,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,..,..,..,..,..,..,..,..,15.9569149,10.05615997,9.03740788,9.44806385,5.86061621,..,..
+South Sudan,SSD,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,..,..,..,..,..,..,..,..,27.0063858,30.23945427,34.9889183,47.67607498,32.67995834,..,..
+South Sudan,SSD,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,..,..,..,..,..,..,..,..,8.44199562,10.1771431,11.16941357,7.70280552,15.86570835,..,..
+South Sudan,SSD,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,..,..,..,..,..,..,..,..,23.44076538,31.51851845,51.17129517,47.97896576,34.29764557,..,..
+South Sudan,SSD,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,..,..,..,..,..,..,..,..,68.11724091,58.30434036,37.65929413,44.31822968,49.83664703,..,..
+South Sudan,SSD,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,..,..,..,..,..,..,..,..,19.19281387,25.75857735,42.32470322,39.66345978,27.40943527,..,..
+South Sudan,SSD,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,1.7,..,..,..,..,..,..,1.88,..,..,..,..,..,..,..
+South Sudan,SSD,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,1.38,..,..,..,..,..,..,1.03,..,..,..,..,..,..,..
+South Sudan,SSD,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,9.21,..,..,..,..,..,..,11.71,..,..,..,..,..,..,..
+South Sudan,SSD,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+South Sudan,SSD,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,..,..,61,63,53,50,46,45,52,59,61,67,69,73,..
+South Sudan,SSD,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Sudan,SDN,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,55.8,..,..,..,48.3,..,..,..,..,..,..,..,..,..
+Sudan,SDN,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,72.5,..,..,..,77.7,..,..,..,..,..,..,..,..,..
+Sudan,SDN,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Sudan,SDN,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,6.39496326,5.05810165,5.61579561,5.68827009,6.96487474,5.67619705,5.81112576,5.68438482,5.91767406,4.46358299,4.57422638,3.01518917,2.83633852,..,..
+Sudan,SDN,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,83.10632324,76.49365234,83.55038452,79.18972778,102.3559113,93.15203094,98.24565125,93.67060852,71.14331818,35.53091431,35.51281357,23.34439278,21.58010864,..,..
+Sudan,SDN,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,41.11616135,32.54711533,22.84302902,26.2535038,16.53942871,25.27283669,14.19444275,22.69012833,18.02452278,23.28133202,22.7021122,34.17627716,27.04865837,..,..
+Sudan,SDN,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,55.22544479,64.43519592,69.23600769,69.45655823,78.45028687,71.0333786,83.78509521,75.34825134,76.59540558,70.31276703,70.75403595,58.92655563,62.5420723,..,..
+Sudan,SDN,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,3.65839458,3.01768994,7.9209609,4.28994083,5.01028585,3.69378376,2.02046776,1.96161723,5.38007069,6.40590143,6.54384565,6.89716196,10.40927315,..,..
+Sudan,SDN,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,52.47582245,61.31344604,65.93135071,65.45468903,74.83428192,67.03178406,79.40106964,71.1858902,72.54642487,66.95339966,67.37359619,52.96360779,56.85788345,..,..
+Sudan,SDN,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,3.19,..,..,..,..,2.25,..,..,..,..,..,..,..,..,..
+Sudan,SDN,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,4.55,..,..,..,..,4.86,..,..,..,..,..,..,..,..,..
+Sudan,SDN,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,18.36,..,..,..,..,12.46,..,..,..,..,..,..,..,..,..
+Sudan,SDN,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Sudan,SDN,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,81,90,93,92,93,94,93,93,95,93,93,90,84,84,..
+Sudan,SDN,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,0.73,0.72,0.84,0.82,0.82,0.8,0.67,0.67,0.74,0.66,0.66,0.66,..,..,..
+Syrian Arab Republic,SYR,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,96.2,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,3.5464704,3.2764473,2.52865291,3.04719615,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,87.92034149,88.68951416,74.85932159,63.13696671,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,44.86792755,44.79367065,45.19852448,45.28663635,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,54.00245285,54.00362015,53.38386917,53.68985748,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,1.12962019,1.20271111,1.41760838,1.02350354,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,54,54,53.36600494,53.6898613,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Syrian Arab Republic,SYR,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,80,80,72,45,41,43,41,42,48,47,54,49,48,46,..
+Syrian Arab Republic,SYR,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,1.51,1.54,1.55,1.53,1.52,1.5,1.47,1.46,1.4,1.26,1.26,1.39,1.43,..,..
+Togo,TGO,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,32.1,..,..,..,48.5,..,..,39,..,..,..,..,..,..
+Togo,TGO,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,43.9,..,..,..,44.6,..,..,69.4,..,..,..,..,..,..
+Togo,TGO,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Togo,TGO,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,4.07616663,4.45493317,4.55412722,4.80787134,4.94373512,5.07998943,4.95647097,6.59755707,6.49392271,6.08894634,5.726192,6.03786469,5.55532026,..,..
+Togo,TGO,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,29.0416832,31.36204338,35.2552681,36.26974869,40.56192398,43.02396011,37.41205215,51.94157028,52.88779449,53.81824493,50.15758133,54.17138672,54.14671707,..,..
+Togo,TGO,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,17.34420013,25.87260246,23.522995,25.14003754,20.06999588,20.35354614,19.02897072,14.88038445,16.14229012,16.74621964,15.077075,14.74263954,9.93372917,..,..
+Togo,TGO,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,72.01300049,68.27921295,68.08689117,64.67205048,63.53125381,64.66252136,65.43901062,69.76535034,68.84172058,73.74506378,75.80754852,70.16882324,73.88970184,..,..
+Togo,TGO,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,10.64279652,5.84817886,8.39011097,10.18791485,16.39874649,14.98392868,15.53202152,15.35426712,15.01598644,9.50871468,9.11537743,15.0885458,16.1765728,..,..
+Togo,TGO,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,65.24909973,62.13306808,62.16771317,59.28656006,57.86953354,57.30480576,57.51215363,63.22953415,61.4656601,64.66403961,66.20977783,64.32513428,69.00460052,..,..
+Togo,TGO,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,2.85,..,..,..,4.92,..,..,..,..,..,..,..,..
+Togo,TGO,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,2.3,..,..,..,2.42,..,..,..,..,..,..,..,..
+Togo,TGO,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,11.12,..,..,..,26.45,..,..,13.68,..,..,..,..,..
+Togo,TGO,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,..,29.6,..,..,..,..,..,..,..,..,..
+Togo,TGO,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,78,83,85,84,84,84,82,82,83,81,84,82,83,82,..
+Togo,TGO,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,0.64,0.59,0.57,0.64,0.64,0.63,0.65,0.67,0.65,0.65,0.58,..,..,..,..
+Uganda,UGA,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,..,78.7,..,..,..,..,71.3,..,..,..,..,..,..,..
+Uganda,UGA,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,..,57.4,..,..,..,..,74.2,..,..,..,..,..,..,..
+Uganda,UGA,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+Uganda,UGA,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.78845549,6.80890226,6.6959095,6.10853958,5.78252411,5.33653069,5.0745697,4.96169233,3.99788952,4.02080536,3.79834843,4.30198574,4.67196703,..,..
+Uganda,UGA,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,44.42161942,51.96447372,55.3051796,55.14218903,53.0015564,51.04053879,40.15630341,39.13254166,31.47759247,32.99159622,33.40487289,36.87842941,43.44807434,..,..
+Uganda,UGA,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,14.28214169,16.11385536,13.56997776,15.1402874,16.84941292,17.81628418,15.15355301,15.6786232,15.97236347,16.77466774,15.11674786,21.85073853,22.53227997,..,..
+Uganda,UGA,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,44.22186279,38.75179291,36.24131393,38.84606934,45.71916199,46.20917511,41.92140579,43.05947113,40.88721466,39.71256638,42.86341476,38.09126282,35.01169968,..,..
+Uganda,UGA,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,41.49599457,45.13435364,50.18870926,46.01364136,37.431427,35.97454071,42.92503738,41.26190948,43.14041901,43.51276779,42.01983261,40.05800629,42.45602036,..,..
+Uganda,UGA,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,42.84917831,37.39066696,33.01004791,37.51226807,42.51777649,40.14643478,39.4708519,40.60963821,38.08950424,35.62893295,38.26028442,34.00273132,31.25317955,..,..
+Uganda,UGA,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,3.18,..,..,2.95,..,..,..,3.08,..,..,..,..,..,..,..
+Uganda,UGA,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,2.87,..,..,2.84,..,..,..,2.59,..,..,..,..,..,..,..
+Uganda,UGA,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,16.77,..,..,15.74,..,..,..,15.27,..,..,..,..,..,..,..
+Uganda,UGA,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,49,..,..,..,..,58.5,..,..,..,..,..,..,..
+Uganda,UGA,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,79,80,82,83,84,85,89,93,94,93,93,89,91,89,..
+Uganda,UGA,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,0.4,0.5,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,ARI treatment (% of children under 5 taken to a health provider),SH.STA.ARIC.ZS,..,..,..,..,34,..,..,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,Births attended by skilled health staff (% of total),SH.STA.BRTC.ZS,..,..,..,34.4,44.7,..,..,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,"Community health workers (per 1,000 people)",SH.MED.CMHW.P3,..,0.001,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,Current health expenditure (% of GDP),SH.XPD.CHEX.GD.ZS,5.98619986,5.15932894,4.7695322,5.19593525,4.96083164,4.8418045,4.25285673,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,Current health expenditure per capita (current US$),SH.XPD.CHEX.PC.CD,62.60401154,64.44327545,61.27024841,70.12895966,74.30075836,75.41601563,63.30020905,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,Domestic general government health expenditure (% of current health expenditure),SH.XPD.GHED.CH.ZS,21.86180878,22.5256176,22.89780807,23.8901062,19.74684525,16.18166351,10.18244267,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,Domestic private health expenditure (% of current health expenditure),SH.XPD.PVTD.CH.ZS,75.28743744,75.05466461,73.49134827,72.58866119,75.58663177,77.4370575,82.03337097,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,External health expenditure (% of current health expenditure),SH.XPD.EHEX.CH.ZS,2.85074902,2.41971827,3.61084318,3.52123785,4.66652393,6.3812809,7.78418827,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,Out-of-pocket expenditure (% of current health expenditure),SH.XPD.OOPC.CH.ZS,74.21583557,74.01689911,72.48513031,71.61329651,74.58348083,76.41697693,80.95723724,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,Proportion of population pushed below the $2.15 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP1.ZS,..,..,..,..,..,4.62,..,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,Proportion of population pushed below the $3.65 ($ 2017 PPP) poverty line by out-of-pocket health care expenditure (%),SH.UHC.NOP2.ZS,..,..,..,..,..,4.02,..,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,Proportion of population spending more than 10% of household consumption or income on out-of-pocket health care expenditure (%),SH.UHC.OOPC.10.ZS,..,..,..,..,..,15.83,..,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,"Women making their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women age 15-49)",SG.DMK.SRCR.FN.ZS,..,..,..,..,..,..,..,..,..,..,..,..,..,..,..
+"Yemen, Rep.",YEM,"Immunization, DPT (% of children ages 12-23 months)",SH.IMM.IDPT,76,76,69,67,73,73,69,71,68,65,73,72,72,74,..
+"Yemen, Rep.",YEM,"Hospital beds (per 1,000 people)",SH.MED.BEDS.ZS,0.65,0.65,0.63,0.62,0.6,0.58,0.71,0.71,0.71,..,..,..,..,..,..
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+Data from database: World Development Indicators,,,,,,,,,,,,,,,,,,
+Last Updated: 09/19/2024,,,,,,,,,,,,,,,,,,
